@@ -1,11 +1,10 @@
-### Hi there 👋
-
+### Hi there 👋 My name is Jianan Zhou :wink: Located in Los Angeles :beer: I'm currently learning Data Science program in Lambda School :page_facing_up: I like play music and sports :soccer: You can find me in Linkedin :tada: Thank you for your attention :camera:
 <!--
 **JamesJiananZhou/JamesJiananZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
